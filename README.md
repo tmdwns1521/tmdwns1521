@@ -61,7 +61,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmdwns1521&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=tmdwns1521&show_icons=true">
 
-![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=tmdwns1521)
 
 </div>
 <br>
